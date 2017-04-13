@@ -7,7 +7,18 @@ JCRecyclerView 只有 200 多行代码就实现了上述功能，并且只有这
 
 ## 效果展示
 
+![jc-a](http://i1.piimg.com/588795/ddbeb1bc164791d2.gif)
+![jc-b](http://i1.piimg.com/588795/a8ccce06b8991393.gif)
+
 ## 用法
+
+基本用法与 RecyclerView 相同。
+[sample](https://github.com/githubhaohao/JCRecyclerView/blob/master/app/src/main/java/com/jc/myrecyclerview/MainActivity.java)
+
+
+
+
+
 
 
 
