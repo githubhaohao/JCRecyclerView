@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.jc.myrecyclerview.MainActivity">
+    <item
+        android:id="@+id/add_adslot_view"
+        android:orderInCategory="100"
+        android:title="Add Ad-Slot View"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/add_state_view"
+        android:orderInCategory="100"
+        android:title="Add State View"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/remove_adslot_view"
+        android:orderInCategory="100"
+        android:title="Remove Ad-Slot View"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/remove_state_view"
+        android:orderInCategory="100"
+        android:title="Remove State View"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/change_state_view"
+        android:orderInCategory="100"
+        android:title="Change State View"
+        app:showAsAction="never" />
+</menu>

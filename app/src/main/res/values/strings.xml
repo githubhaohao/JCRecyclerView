@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyRecyclerView</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_item">What if, instead of having to declare an anonymous class every time we need to
+implement a click listener, we could just define what we want to do?</string>
+    <string name="item_string">We can add new functions to any class. It’s a much more readable substitute to the usual utility classes we all have in our projects.</string>
+</resources>

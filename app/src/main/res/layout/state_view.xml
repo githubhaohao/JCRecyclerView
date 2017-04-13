@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <com.fingdo.statelayout.StateLayout
+        xmlns:sl="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/state_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        sl:emptyImg="@drawable/ic_state_empty"
+        sl:emptyText="空数据提示文字"
+        sl:errorImg="@drawable/ic_state_error"
+        sl:errorText="错误提示文字"
+        sl:loadingText="加载提示文字"
+        sl:loginImg="@drawable/ic_state_login"
+        sl:loginText="登录提示文字"
+        sl:noNetworkImg="@drawable/ic_state_no_network"
+        sl:noNetworkText="没有网络提示文字"
+        sl:timeOutImg="@drawable/ic_state_time_out"
+        sl:timeOutText="超时提示文字">
+    </com.fingdo.statelayout.StateLayout>
+
+</LinearLayout>
